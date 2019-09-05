@@ -18,9 +18,9 @@
   },
   "projects": [{
       "id": "1",
-      "name": "Project Name1",
+      "name": "Swift Property Wrappers",
       "contributors": [
-        "userID1, userID2"
+        "Eric Dolecki", "Manasi Bhandare", "Utsav Shah"
       ],
       "snippet": "Short description of the project",
       "fullDescription": "FullDescription",
@@ -38,13 +38,13 @@
       "categories": [
         "Automotive"
       ],
-      "githubLink": "https://github.com"
+      "githubLink": "https://github.com/Bose-Corp/xyz"
     },
     {
       "id": "2",
       "name": "Project Name2",
       "contributors": [
-        "userID1, userID2"
+        "userID1", "userID2"
       ],
       "snippet": "Short description of the project",
       "fullDescription": "FullDescription",
