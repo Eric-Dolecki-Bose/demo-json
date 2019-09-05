@@ -1,11 +1,219 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
+  "signup": {
+    "username": "username",
+    "email": "email",
+    "password": "password"
+  },
+  "login": {
+    "id": "123",
+    "name": "username",
+    "projects": [
+      "projectid1",
+      "projectid2"
+    ],
+    "tags": [
+      "iOS",
+      "golang"
+    ]
+  },
+  "posts": [{
+    "id": 1,
+    "title": "hello"
+  }],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "projects": [{
+      "id": "1",
+      "name": "Project Name1",
+      "contributors": [
+        "userID1, userID2"
+      ],
+      "snippet": "Short description of the project",
+      "fullDescription": "FullDescription",
+      "image": [],
+      "video": [],
+      "likes": 0,
+      "views": 0,
+      "topics": [
+        "Swift",
+        "Sensors"
+      ],
+      "platforms": [
+        "Raspberry Pi"
+      ],
+      "categories": [
+        "Automotive"
+      ],
+      "githubLink": "https://github.com"
+    },
+    {
+      "id": "2",
+      "name": "Project Name2",
+      "contributors": [
+        "userID1, userID2"
+      ],
+      "snippet": "Short description of the project",
+      "fullDescription": "FullDescription",
+      "image": [],
+      "video": [],
+      "likes": 0,
+      "views": 0,
+      "topics": [
+        "iOS",
+        "golang"
+      ],
+      "platforms": [
+        "Sensors"
+      ],
+      "categories": [
+        "Hadrian"
+      ],
+      "githubLink": "https://github.com"
+    },
+    {
+      "id": "3",
+      "name": "Project Name3",
+      "contributors": [
+        "124",
+        "127"
+      ],
+      "snippet": "Short description of the project",
+      "fullDescription": "FullDescription",
+      "image": [],
+      "video": [],
+      "likes": 0,
+      "views": 0,
+      "topics": [
+        "Voice"
+      ],
+      "platforms": [
+        "Web Technologies"
+      ],
+      "categories": [
+        "Bose Soundtouch"
+      ],
+      "githubLink": "https://github.com"
+    },
+    {
+      "id": "4",
+      "name": "Project Name4",
+      "contributors": [
+        "125",
+        "126"
+      ],
+      "snippet": "Short description of the project4",
+      "fullDescription": "FullDescription project4",
+      "image": [],
+      "video": [],
+      "likes": 0,
+      "views": 0,
+      "topics": [
+        "Audio DSP",
+        "MatLab"
+      ],
+      "platforms": [
+        "Arduino"
+      ],
+      "categories": [
+        "Automotive"
+      ],
+      "githubLink": "https://github.com"
+    }
+  ],
+  "users": [{
+      "id": "123",
+      "name": "username",
+      "projects": [
+        "projectid1",
+        "projectid2"
+      ],
+      "topics": [
+        "Swift",
+        "Sensors",
+        "iOS",
+        "golang"
+      ],
+      "platforms": [
+        "Raspberry Pi",
+        "Sensors"
+      ],
+      "categories": [
+        "Hadrian",
+        "Automotive"
+      ]
+    },
+    {
+      "id": "124",
+      "name": "username2",
+      "projects": [
+        "projectid1",
+        "projectid3"
+      ],
+      "topics": [
+        "Voice",
+        "Swift",
+        "Sensors"
+      ],
+      "platforms": [
+        "Web Technologies",
+        "Raspberry Pi"
+      ],
+      "categories": [
+        "Automotive",
+        "Bose Soundtouch"
+      ]
+    },
+    {
+      "id": "125",
+      "name": "username3",
+      "projects": [
+        "projectid4",
+        "projectid2"
+      ],
+      "topics": [
+        "Audio DSP",
+        "MatLab",
+        "iOS",
+        "golang"
+      ],
+      "platforms": [
+        "Sensors",
+        "Arduino"
+      ],
+      "categories": [
+        "Hadrian",
+        "Automotive"
+      ]
+    } {
+      "id": "126",
+      "name": "username4",
+      "projects": [
+        "projectid4"
+      ],
+      "topics": [
+        "Audio DSP",
+        "MatLab"
+      ],
+      "platforms": [
+        "Arduino"
+      ],
+      "categories": ["Automotive"]
+    } {
+      "id": "127",
+      "name": "username5",
+      "projects": [
+        "projectid3"
+      ],
+      "topics": [
+        "Voice"
+      ],
+      "platforms": [
+        "Web Technologies"
+      ],
+      "categories": [
+        "Bose Soundtouch"
+      ]
+    }
+  ]
 }
