@@ -16,13 +16,6 @@
       "golang"
     ]
   },
-  "posts": [{
-    "id": 1,
-    "title": "hello"
-  }],
-  "profile": {
-    "name": "typicode"
-  },
   "projects": [{
       "id": "1",
       "name": "Project Name1",
