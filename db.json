@@ -71,7 +71,7 @@
         "Stoyan Iliev",
         "Mark Blewett"
       ],
-      "snippet": "Short description of the project",
+      "snippet": "Typically, any project starts with this document. An executor sends the brief to the customer, whom should concretize the project. Based on the data provided, you initiate the project realization run-up or further discussion on the details.",
       "fullDescription": "FullDescription",
       "image": [],
       "video": [],
@@ -86,7 +86,7 @@
       "categories": [
         "Bose Soundtouch"
       ],
-      "githubLink": "https://github.com"
+      "githubLink": "https://github.com/abc_123"
     },
     {
       "id": "4",
@@ -94,7 +94,7 @@
       "contributors": [
         "Sean Klaiber"
       ],
-      "snippet": "Short description of the project4",
+      "snippet": "When outlining briefs, the amount of required data can vary significantly as well. In certain cases a few very short and general phrases are sufficient (when the brief’s just 1-2 pages long), while in some other cases all the major project points should be set out in details (then the brief can stretch up to 10-20 pages).",
       "fullDescription": "FullDescription project4",
       "image": [],
       "video": [],
@@ -110,7 +110,7 @@
       "categories": [
         "Automotive"
       ],
-      "githubLink": "https://github.com"
+      "githubLink": "https://github.com/Bose-Corp"
     }
   ],
   "users": [{
