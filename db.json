@@ -111,6 +111,32 @@
         "Automotive"
       ],
       "githubLink": "https://github.com/Bose-Corp"
+    }, {
+      "id": "5",
+      "name": "Vostøk",
+      "contributors": [
+        "Petr Vassilesky",
+        "Stoyan Iliev"
+      ],
+      "snippet": "This was delivered yesterday from eastern Europe without a strap. I cleaned as much as I can, change a bezel and put on a Nato leather strap.<br/><br/>This is the first time I see Vostok with a crown at 2 o'clock. And on the dial it does not say Komandirskie. If I'm not mistaken it reads like Generalskie.",
+      "fullDescription": "FullDescription project 5",
+      "image": [
+        "https://picsum.photos/id/6/500/300"
+      ],
+      "video": [],
+      "likes": 0,
+      "views": 0,
+      "topics": [
+        "Audio DSP",
+        "MatLab"
+      ],
+      "platforms": [
+        "Arduino", "iOS", "Swift"
+      ],
+      "categories": [
+        "Automotive", "Satellite Telemetry"
+      ],
+      "githubLink": "https://github.com/Bose-Corp/foobar"
     }
   ],
   "users": [{
