@@ -141,7 +141,7 @@
   ],
   "users": [{
       "id": "123",
-      "name": "username",
+      "name": "Manasi Bhandare",
       "projects": [
         "projectid1",
         "projectid2"
@@ -159,11 +159,14 @@
       "categories": [
         "Hadrian",
         "Automotive"
+      ],
+      "skills": [
+        "C++", "Swift", "PHP", "SQL", "AWS", "Boomerang Throwing", "Astronomy Photography", "MatLab"
       ]
     },
     {
       "id": "124",
-      "name": "username2",
+      "name": "Eric Dolecki",
       "projects": [
         "projectid1",
         "projectid3"
@@ -180,11 +183,14 @@
       "categories": [
         "Automotive",
         "Bose Soundtouch"
+      ],
+      "skills": [
+        "Shaving", "Showering", "Walking", "Sleeping", "Drinking", "Hiking"
       ]
     },
     {
       "id": "125",
-      "name": "username3",
+      "name": "NB Patil",
       "projects": [
         "projectid4",
         "projectid2"
@@ -202,10 +208,13 @@
       "categories": [
         "Hadrian",
         "Automotive"
+      ],
+      "skills": [
+        "Accordion", "Clarinet", "Piano", "Harmonica", "Kettle Drum"
       ]
     }, {
       "id": "126",
-      "name": "username4",
+      "name": "Utsav Shah",
       "projects": [
         "projectid4"
       ],
@@ -231,6 +240,9 @@
       ],
       "categories": [
         "Bose Soundtouch"
+      ],
+      "skills": [
+        "Singing", "Dancing", "Whistling", "Jumping Jack Champion"
       ]
     }
   ]
