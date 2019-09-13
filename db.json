@@ -142,6 +142,9 @@
   "users": [{
       "id": "123",
       "name": "Manasi Bhandare",
+      "email": "manasi_bhandare@bose.com",
+      "phone": "1 (508) 766-9223",
+      "group": "The CCG Group",
       "projects": [
         "projectid1",
         "projectid2"
@@ -167,6 +170,9 @@
     {
       "id": "124",
       "name": "Eric Dolecki",
+      "email": "eric_dolecki@bose.com",
+      "phone": "1 (508) 766-9223",
+      "group": "User Centered Design",
       "projects": [
         "projectid1",
         "projectid3"
@@ -191,6 +197,9 @@
     {
       "id": "125",
       "name": "NB Patil",
+      "email": "nb_patil@bose.com",
+      "phone": "1 (508) 766-9223",
+      "group": "The CCG Group",
       "projects": [
         "projectid4",
         "projectid2"
@@ -215,6 +224,9 @@
     }, {
       "id": "126",
       "name": "Utsav Shah",
+      "email": "utsav_shah@bose.com",
+      "phone": "1 (508) 766-9223",
+      "group": "User Centered Design",
       "projects": [
         "projectid4"
       ],
