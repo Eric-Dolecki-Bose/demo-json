@@ -145,6 +145,10 @@
       "email": "manasi_bhandare@bose.com",
       "phone": "1 (508) 766-9223",
       "group": "The CCG Group",
+      "links": [{
+        "profilePicture":"https://picsum.photos/id/6/500/300",
+        "githubProfile":"https://github.com/manasi-bhandare-bose"
+      }],
       "projects": [
         "projectid1",
         "projectid2"
@@ -173,6 +177,10 @@
       "email": "eric_dolecki@bose.com",
       "phone": "1 (508) 766-9223",
       "group": "User Centered Design",
+      "links": [{
+        "profilePicture":"https://picsum.photos/id/6/500/300",
+        "githubProfile":"https://github.com/eric-doleki-bose"
+      }],
       "projects": [
         "projectid1",
         "projectid3"
@@ -204,6 +212,10 @@
         "projectid4",
         "projectid2"
       ],
+      "links": [{
+        "profilePicture":"https://picsum.photos/id/6/500/300",
+        "githubProfile":"https://github.com/eric-doleki-bose"
+      }],
       "topics": [
         "Audio DSP",
         "MatLab",
@@ -227,6 +239,10 @@
       "email": "utsav_shah@bose.com",
       "phone": "1 (508) 766-9223",
       "group": "User Centered Design",
+      "links": [{
+        "profilePicture":"https://picsum.photos/id/6/500/300",
+        "githubProfile":"https://github.com/eric-doleki-bose"
+      }],
       "projects": [
         "projectid4"
       ],
