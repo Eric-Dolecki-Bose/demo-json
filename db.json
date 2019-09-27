@@ -38,7 +38,10 @@
       "categories": [
         "Automotive"
       ],
-      "githubLink": "https://github.com/Bose-Corp/xyz"
+      "githubLink": "https://github.com/Bose-Corp/xyz",
+      "featured": true,
+      "lastUpdated":"2019-08-31T18:00Z",
+      "created":"2019-06-31T19:00Z"
     },
     {
       "id": "2",
@@ -62,7 +65,10 @@
       "categories": [
         "Hadrian"
       ],
-      "githubLink": "https://github.com"
+      "githubLink": "https://github.com",
+      "featured": true,
+      "lastUpdated":"2019-07-31T18:00Z",
+      "created":"2019-06-31T19:00Z"
     },
     {
       "id": "3",
@@ -86,7 +92,10 @@
       "categories": [
         "Soundtouch"
       ],
-      "githubLink": "https://github.com/abc_123"
+      "githubLink": "https://github.com/abc_123",
+      "featured": false,
+      "lastUpdated":"2019-08-31T19:00Z",
+      "created":"2019-06-31T19:00Z"
     },
     {
       "id": "4",
@@ -110,7 +119,10 @@
       "categories": [
         "Automotive"
       ],
-      "githubLink": "https://github.com/Bose-Corp"
+      "githubLink": "https://github.com/Bose-Corp",
+      "featured": true,
+      "lastUpdated":"2019-08-31T17:00Z",
+      "created":"2019-06-31T19:00Z"
     }, {
       "id": "5",
       "name": "Vostøk",
@@ -136,7 +148,10 @@
       "categories": [
         "Automotive", "Satellite Telemetry"
       ],
-      "githubLink": "https://github.com/Bose-Corp/foobar"
+      "githubLink": "https://github.com/Bose-Corp/foobar",
+      "featured": false,
+      "lastUpdated":"2019-09-31T18:00Z",
+      "created":"2019-06-31T19:00Z"
     }
   ],
   "users": [{
@@ -169,7 +184,9 @@
       ],
       "skills": [
         "C++", "Swift", "PHP", "SQL", "AWS", "Boomerang Throwing", "Astronomy Photography", "MatLab"
-      ]
+      ],
+      "created":"2019-06-31T19:00Z",
+      "lastUpdated":"2019-09-31T19:00Z"
     },
     {
       "id": "124",
@@ -200,7 +217,9 @@
       ],
       "skills": [
         "Shaving", "Showering", "Walking", "Sleeping", "Drinking", "Hiking"
-      ]
+      ],
+      "created":"2019-06-31T19:00Z",
+      "lastUpdated":"2019-09-31T19:00Z"
     },
     {
       "id": "125",
@@ -232,7 +251,9 @@
       ],
       "skills": [
         "Accordion", "Clarinet", "Piano", "Harmonica", "Kettle Drum"
-      ]
+      ],
+      "created":"2019-06-31T19:00Z",
+      "lastUpdated":"2019-09-31T19:00Z"
     }, {
       "id": "126",
       "name": "Utsav Shah",
@@ -253,7 +274,12 @@
       "platforms": [
         "Arduino"
       ],
-      "categories": ["Automotive"]
+      "categories": ["Automotive"],
+      "skills": [
+        "Singing", "Dancing", "Whistling", "Jumping Jack Champion"
+      ],
+      "created":"2019-06-31T19:00Z",
+      "lastUpdated":"2019-09-31T19:00Z"
     }, {
       "id": "127",
       "name": "username5",
@@ -271,7 +297,9 @@
       ],
       "skills": [
         "Singing", "Dancing", "Whistling", "Jumping Jack Champion"
-      ]
+      ],
+      "created":"2019-06-31T19:00Z",
+      "lastUpdated":"2019-09-31T19:00Z"
     }
   ]
 }
